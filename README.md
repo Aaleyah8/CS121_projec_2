@@ -6,6 +6,9 @@ function sort (array):
             if array[j] > array[j+1]:
                 swap array[j] with array[j+1]
                 printArray(array)
+                
+#include <stdio.h>
+const int MAX=9;
 
 void printValues(int*);
 void sort(int*);
