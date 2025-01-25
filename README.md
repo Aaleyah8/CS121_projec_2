@@ -29,4 +29,4 @@ int main(){
   return(0);
 } // end main
 
-This is all i could really figure out with the code you gave me, I had a hard time trying to get the output to come out. 
+This is all i could really figure out with the code you gave me, I had a hard time trying to get the output to come out. I am totally stuck.
