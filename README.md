@@ -13,7 +13,7 @@ void swap(int*, int*);
 int main(){
   int values[] = {7, 3, 9, 4, 6, 1, 2, 8, 5};
   printf("Before: \n");
-  printValues(values);
+  printf("%p", values);
 
   // test swap
   int x = 3;
@@ -24,7 +24,9 @@ int main(){
 
   sort(values);
   printf("After: \n");
-  printValues(values);
+  printf("%p", values);
 
   return(0);
 } // end main
+
+This is all i could really figure out with the code you gave me, I had a hard time trying to get the output to come out. 
